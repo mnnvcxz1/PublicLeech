@@ -137,3 +137,7 @@ You can add multiple IDs seperated by space.
 * [rClone Team](https://github.com/rclone/rclone)
 * [gautamajay52](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 * [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
+
+## How To Host
+The easiest way to deploy this userbot
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mnnvcxz1/PublicLeech/tree/master"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
